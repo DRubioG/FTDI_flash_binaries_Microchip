@@ -4,6 +4,7 @@
 # FT4232
 [jtag_microchip.conf](./binaries/ft4232/jtag_microchip.conf) (3 UARTs + JTAG)
 [jtag_microchip_kit.conf](./binaries/ft4232/jtag_microchip_kit.conf) (3 UARTs + JTAG)
+[FT4232_4xUARTs.conf](./binaries/ft4232/FT4232_4xUARTs.conf) (4x UARTs)
 
 Other repos:
 - Xilinx: https://github.com/DRubioG/FTDI_flash_binaries_Xilinx
